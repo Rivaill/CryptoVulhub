@@ -12,7 +12,7 @@ You need to apply for speedy-nodes from moralis.io)
 Then run
 ```bash
 yarn install
-hardhat run scripts/attack.js
+yarn hardhat run scripts/attack.js
 ```
 You will see similar output later
 ```
@@ -26,7 +26,7 @@ This means the attack is complete
 
 If you want to test another vulnerability, run
 ```bash
-hardhat run scripts/attack2.js
+yarn hardhat run scripts/attack2.js
 ```
 ## link
 
