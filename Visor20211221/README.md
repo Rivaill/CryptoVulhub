@@ -28,6 +28,6 @@ If you want to test another vulnerability, run
 ```bash
 yarn hardhat run scripts/attack2.js
 ```
-## link
+## Link
 
 * https://twitter.com/VisorFinance/status/1473306777131405314
