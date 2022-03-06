@@ -1,4 +1,4 @@
-# Visor exploit
+# Bacon Protocol re-hack PoC
 
 ## How to run
 
