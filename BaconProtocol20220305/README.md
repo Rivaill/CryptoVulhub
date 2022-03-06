@@ -12,7 +12,7 @@ You need to apply for speedy-nodes from moralis.io)
 Then run
 ```bash
 npm install
-npx hardhat run scripts/attack.js
+npx hardhat run scripts/attack.ts
 ```
 You will see similar output later
 ```
