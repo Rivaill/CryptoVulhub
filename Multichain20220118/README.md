@@ -4,7 +4,7 @@
 
 Install nodejs/yarn first
 
-Set up the `forking url` (in `hardhat.config.ts`)
+Set up the `forking url` (in `hardhat.config.js`)
 
 e.g. https://speedy-nodes-nyc.moralis.io/xxxxxxxxxxx/eth/mainnet/archive (
 You need to apply for speedy-nodes from moralis.io)
