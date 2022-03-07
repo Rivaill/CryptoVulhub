@@ -28,3 +28,4 @@ This means the attack is complete
 ## Link
 
 * https://twitter.com/peckshield/status/1500105933128495108
+* https://www.tofreedom.me/bacon-protocolerc777

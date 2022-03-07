@@ -1,4 +1,4 @@
-# Visor exploit
+# Visor re-hack PoC
 
 ## How to run
 
@@ -31,3 +31,4 @@ yarn hardhat run scripts/attack2.js
 ## Link
 
 * https://twitter.com/VisorFinance/status/1473306777131405314
+* https://www.tofreedom.me/visorfinance-re-hack
