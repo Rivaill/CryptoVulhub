@@ -7,4 +7,4 @@
 * [TreasureDAO re-hack](./TreasureDAO20220303)
 * [Bacon Protocol re-hack](./BaconProtocol20220305)
 * [Fantasm Finance re-hack](./FantasmFinance20220309)
-* [Polygon double-spend reproduce](./PolygonDoubleSpend)
+* [Polygon double-spend replay](./PolygonDoubleSpend)
