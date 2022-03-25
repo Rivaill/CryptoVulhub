@@ -3,6 +3,7 @@
 
 ## List
 * [Polygon double-spend replay](./PolygonDoubleSpend)
+* [Compound-TUSD sweepToken bypass replay](./CompoundTUSDSweepTokenBypass)
 * [Visor Finance re-hack](./VisorFinance20211221)
 * [Multichain re-hack](./Multichain20220118)
 * [TreasureDAO re-hack](./TreasureDAO20220303)
