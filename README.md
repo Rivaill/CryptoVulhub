@@ -10,3 +10,4 @@
 * [Bacon Protocol re-hack](./BaconProtocol20220305)
 * [Fantasm Finance re-hack](./FantasmFinance20220309)
 * [Paraluni re-hack](./Paraluni20220313)
+* [OneRing Finance re-hack](./OneRingfinance20220321)
