@@ -11,3 +11,4 @@
 * [Fantasm Finance re-hack](./FantasmFinance20220309)
 * [Paraluni re-hack](./Paraluni20220313)
 * [OneRing Finance re-hack](./OneRingfinance20220321)
+* [Revest Finance re-hack](./RevestFinance20220327)
