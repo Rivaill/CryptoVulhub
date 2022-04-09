@@ -13,3 +13,4 @@
 * [OneRing Finance re-hack](./OneRingfinance20220321)
 * [Auctus re-hack](./Auctus20220326)
 * [Revest Finance re-hack](./RevestFinance20220327)
+* [Starstream Finance re-hack](./StarstreamFinance20220408)
