@@ -15,3 +15,4 @@
 * [Revest Finance re-hack](./RevestFinance20220327)
 * [Starstream Finance re-hack](./StarstreamFinance20220408)
 * [GYM Network re-hack](./GYMNetwork20220409)
+* [Elephant Money re-hack](./ElephantMoney20220412)
