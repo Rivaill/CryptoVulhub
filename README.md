@@ -16,3 +16,4 @@
 * [Starstream Finance re-hack](./StarstreamFinance20220408)
 * [GYM Network re-hack](./GYMNetwork20220409)
 * [Elephant Money re-hack](./ElephantMoney20220412)
+* [Rikkei Finance re-hack](./RikkeiFinance20220415)
