@@ -18,3 +18,4 @@
 * [Elephant Money re-hack](./ElephantMoney20220412)
 * [Rikkei Finance re-hack](./RikkeiFinance20220415)
 * [Beanstalk Farms re-hack](./BeanstalkFarms20220417)
+* [Zeed Finance re-hack](./ZeedFinance20220422)
